@@ -1,5 +1,6 @@
 body {
-  padding: 50px;
+  /* changed the padding to only apply to the top, as I find it looks better a bit lower*/
+  padding-top: 50px;
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
 }
 
